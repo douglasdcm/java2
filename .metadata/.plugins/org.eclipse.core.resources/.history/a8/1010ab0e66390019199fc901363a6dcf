@@ -1,0 +1,22 @@
+import org.openqa.selenium.By;
+import org.openqa.selenium.Dimension;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class TestAlert {
+
+	//create method
+	public void deveInteragirComAlert() {
+		//set driver
+		WebDriver driver = new FirefoxDriver();
+		//resize the window
+		driver.manage().window().setSize(new Dimension (1200, 765));
+		//get the url
+		driver.get("file:///" + System.getProperty("user.dir")+ "/src/main/resources/componentes.html");
+		//find the element
+		driver.findElement(By.id("alert")).
+		//assert
+	}
+
+	
+}
