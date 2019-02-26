@@ -3112,3 +3112,12 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestRunner referenc
 2019-02-19 22:44:48,357 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2019-02-19 22:44:48,357 [Worker-55: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-02-19 22:44:48,373 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-25 20:47:50,660 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-25 20:48:21,409 [Worker-11: Launching TesteCampoTreinamento] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-25 20:48:21,423 [Worker-11: Launching TesteCampoTreinamento] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-25 20:48:21,493 [Worker-11: Launching TesteCampoTreinamento] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-25 20:48:21,500 [Worker-11: Launching TesteCampoTreinamento] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-25 20:50:30,684 [Worker-4: Launching TesteCampoTreinamento.deveBuscarTextosNaPagina] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-25 20:50:30,731 [Worker-4: Launching TesteCampoTreinamento.deveBuscarTextosNaPagina] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-25 20:50:30,734 [Worker-4: Launching TesteCampoTreinamento.deveBuscarTextosNaPagina] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-25 20:50:30,743 [Worker-4: Launching TesteCampoTreinamento.deveBuscarTextosNaPagina] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
