@@ -1,0 +1,15 @@
+import org.apache.http.impl.client.SystemDefaultHttpClient;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class TesteGoogle {
+	
+	public static void main(String[] args) {
+		//System.setProperties("webdriver.gecko.driver", "/path/geckdriver.exe");
+		WebDriver driver = new FirefoxDriver();
+		driver.get("http://www.google.com");
+		System.out.println(driver.getTitle());
+		
+	}
+
+}

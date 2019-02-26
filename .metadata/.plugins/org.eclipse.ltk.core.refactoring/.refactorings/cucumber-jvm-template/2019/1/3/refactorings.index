@@ -1,0 +1,19 @@
+1547699026499	Rename resource 'Demo'
+1547701159313	Copy folder
+1547701652541	Copy file
+1547702423973	Copy file
+1547702487780	Rename resource 'appSteps.java'
+1547702945778	Move 'PageObject.java' to 'resources'
+1547702952635	Move 'AppSteps.java' to 'resources'
+1547702983578	Move 'AppSteps.java' to 'java'
+1547703001298	Move 'PageObject.java' to 'java'
+1547703560904	Delete element
+1547704155513	Move 'TestRunner.java' to 'java'
+1547704216015	Move 'createTask.feature' to 'java'
+1547704379976	Move 'createTask.feature' to 'resources'
+1547777768522	Rename resource 'createTask.feature'
+1547777777216	Rename resource 'createSubtasks.feature'
+1547791585582	Rename resource 'deleteTask.feature'
+1547795321637	Move 'AppSteps.java' to 'resources'
+1547795349324	Move 'AppSteps.java' to 'java'
+1547847046900	Copy file
