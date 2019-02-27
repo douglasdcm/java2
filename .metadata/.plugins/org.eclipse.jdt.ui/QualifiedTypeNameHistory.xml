@@ -28,20 +28,22 @@
 <fullyQualifiedTypeName name="org.apache.zookeeper.WatchedEvent"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="org.apache.http.impl.client.SystemDefaultHttpClient"/>
-<fullyQualifiedTypeName name="org.junit.Test"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.ie.InternetExplorerDriver"/>
 <fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.javascript.host.geo.Position"/>
 <fullyQualifiedTypeName name="java.awt.Point"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.Point"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.sun.javafx.runtime.SystemProperties"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.Dimension"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.Alert"/>
 <fullyQualifiedTypeName name="junit.framework.Assert"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
 <fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Dimension"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

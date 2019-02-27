@@ -63,7 +63,7 @@ public class TesteCampoTreinamento {
 		driver.get("file:///" + System.getProperty("user.dir") + "/src/main/resources/componentes.html");
 		WebElement element = driver.findElement(By.id("elementosForm:escolaridade"));
 		
-		Select combo= new Select(element);
+		Select combo = new Select(element);
 		//Thread.sleep(3000);
 		//combo.selectByIndex(2);
 		//combo.selectByValue("superior");

@@ -1,0 +1,27 @@
+import org.junit.Assert;
+import org.junit.Test;
+import org.openqa.selenium.Alert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.Dimension;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+
+
+public class TestFrame {
+	
+	@Test
+	public void deveInteragirComFrame() {
+		WebDriver driver = new FirefoxDriver();
+		driver.manage().window().setSize(new Dimension (1200, 765));
+		driver.findElement(By.id("frameButton")).click();
+		Alert alert = driver.switchTo().alert();
+		Assert.assertEquals("Frame OK!", alert.getText());
+		String texto = alert.getText();
+		driver.findElement(By.id("elementosForm:nome")).sendKeys(texto);
+		Assert.assertEquals("Frame OK!", driver.findElement(By.id("elementosForm:nome"))
+				.getAttribute("value"));
+	}
+
+}
